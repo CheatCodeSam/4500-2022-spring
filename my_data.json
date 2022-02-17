@@ -5,6 +5,7 @@
   "phone": "(123)456-7890",
   "email": "mail@carsonweeks.com",
   "introduction": "Hello world, assignment 2",
+  "education": "CSUSB",
   "experience":[
     {
       "title":"WEB DEVELOPER",
