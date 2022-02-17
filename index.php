@@ -41,7 +41,7 @@
       <div id="education" class="content-item">
         <div class="vertical-center">
           <h2>Education</h2>
-          <p>><?php echo $json_data['education']; ?></p>
+          <p><?php echo $json_data['education']; ?></p>
         </div>
       </div>
       <hr>
