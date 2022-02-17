@@ -1,10 +1,10 @@
 {
-  "first-name": "Firstname",
-  "last-name": "Lastname",
+  "first-name": "Carson",
+  "last-name": "Weeks",
   "address": "5500 University Pkwy, San Bernardino, CA 92407",
   "phone": "(123)456-7890",
-  "email": "name@mail.com",
-  "introduction": "A introduction of youself ...",
+  "email": "mail@carsonweeks.com",
+  "introduction": "Hello world, assignment 2",
   "experience":[
     {
       "title":"WEB DEVELOPER",
